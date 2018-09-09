@@ -11,9 +11,9 @@ user_title: PhD Student
 email: philipp.nguyen@manchester.ac.uk
 twitter_username: philippMUC
 github_username:  PhilippNguyen
-gplus_username:  lorem_ipsum
+# gplus_username:  lorem_ipsum
 # Google-analytics
 google-analytics:
-  id: ""
+  id: "UA-125490535-1"
 
 exclude: ['package.json', 'src' , 'node_modules']
